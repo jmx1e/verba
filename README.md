@@ -33,6 +33,7 @@ Verba then uses advanced custom agents to deliver structured reports that appear
 source first_responder_env/bin/activate
 ```
 2. Backend Setup
+
 Install dependencies:
 ```
 cd verba-folder
@@ -54,6 +55,7 @@ node api/index.js
 The API will run on http://localhost:3001
 
 3. Frontend Setup
+
 Install dependencies:
 ```
 cd verba-folder/ui
