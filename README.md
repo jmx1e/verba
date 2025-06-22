@@ -27,6 +27,47 @@ Verba then uses advanced custom agents to deliver structured reports that appear
 - Helpful reports for doctors with critical information from paramedics and suggested further action
 
 ## Getting Started
-- Call +1 (650) 252 7577, follow instructions given by Verba, ask clarifying questions if needed
-- Run the backend code for connecting Vapi with Letta
-- Visit the dashboard and continue calling the number if needed
+1. Environment Setup
+```
+# Activate the Python virtual environment
+source first_responder_env/bin/activate
+```
+2. Backend Setup
+Install dependencies:
+```
+cd verba-folder
+npm install
+```
+Set up environment variables by creating a `.env` file in the `verba-folder` directory:
+```
+# verba-folder/.env
+LETTA_API_KEY=your_letta_api_key_here
+AGENT_ID=your_agent_id_here
+SUPABASE_URL=your_supabase_url_here
+SUPABASE_KEY=your_supabase_key_here
+```
+Start the backend server:
+```
+# From verba-folder directory
+node api/index.js
+```
+The API will run on http://localhost:3001
+3. Frontend Setup
+Install dependencies:
+```
+cd verba-folder/ui
+npm install
+```
+Start the development server:
+```
+npm run dev
+```
+The dashboard will be available at http://localhost:5173 
+4. Testing the system
+    - Call the Voice Agent: +1 (650) 252 7577
+    - Follow Verba's instructions and provide emergency data
+    - Visit the dashboard at http://localhost:5173 to see structured reports appear in real-time
+    - Continue calling the number if desired
+
+
+
