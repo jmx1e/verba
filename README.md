@@ -17,7 +17,7 @@ Verba then uses advanced custom agents to deliver structured reports that appear
 - **Medical database**: thousands of EMS-specific terminology, abbreviations, and field-data.
 - **Letta**: A custom medical language model agent, based on GPT-4o mini and trained on medical database. Parses transcriptions from Vapi into structured, clinically relevant data fields for doctor review. Seamlessly connects with existing major ePCR/EHR systems like Zoll and ESO.
 
-![Verba Flowchart](./images/Verba%20Flowchart.svg) 
+![Verba Flowchart](./images/Verba_Flowchart.png) 
 
 ## Features
 - Key medical term/feature extraction through Vapi workflow: Speech-to-Text, LLM, Text-to-Speech
@@ -25,8 +25,9 @@ Verba then uses advanced custom agents to deliver structured reports that appear
 - Helpful reports for doctors with critical information from paramedics and suggested further action
 
 ## Getting Started
-- Call +1 (650) 252 7577
-- Visit the dashboard
+- Call +1 (650) 252 7577, follow instructions given by Verba, ask clarifying questions if needed
+- Run the backend code for connecting Vapi with Letta
+- Visit the dashboard and continue calling the number if needed
 
 
 
