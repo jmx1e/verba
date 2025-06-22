@@ -1,4 +1,4 @@
-# Verba: 
+# Verba 
 Verba is a real-time voice agent that ensures nothing gets lost in translation during the most critical moments of emergency responses. Designed for EMS-to-hospital handoffs, Verba listens to paramedics’ verbal reports on scene and automatically transcribes, extracts, and structures all key medical data using a voice-first, AI-assisted workflow. It’s trained to be as efficient as possible, asking clarifying questions only when absolutely necessary. 
 
 Verba then uses advanced custom agents to deliver structured reports that appear instantly on the Doctor Dashboard prioritized on criticality, reducing time-to-treatment and minimizing human error.
@@ -28,7 +28,3 @@ Verba then uses advanced custom agents to deliver structured reports that appear
 - Call +1 (650) 252 7577, follow instructions given by Verba, ask clarifying questions if needed
 - Run the backend code for connecting Vapi with Letta
 - Visit the dashboard and continue calling the number if needed
-
-
-
-
