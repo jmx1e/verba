@@ -1,0 +1,17 @@
+{
+    "name": "emt-api",
+    "scripts": {
+        "dev": "nodemon index.js"
+    },
+    "dependencies": {
+        "@letta-ai/letta-client": "^0.1.132",
+        "cors": "^2",
+        "dotenv": "^16",
+        "express": "^4",
+        "node-fetch": "^2"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.10"
+    }
+    
+}

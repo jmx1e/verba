@@ -1,0 +1,25 @@
+{
+    "name": "emt-dashboard",
+    "private": true,
+    "scripts": {
+        "dev": "concurrently \"npm run dev --prefix api\" \"npm run dev --prefix ui\"",
+        "build": "npm run build --prefix ui"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.21",
+        "concurrently": "^9.2.0",
+        "postcss": "^8.5.6",
+        "tailwindcss": "^4.1.10"
+    },
+    "dependencies": {
+        "@letta-ai/letta-client": "^0.1.132",
+        "canvas": "^3.1.1",
+        "dotenv": "^16.5.0",
+        "leaflet": "^1.9.4",
+        "lucide-react": "^0.522.0",
+        "node-fetch": "^2.7.0",
+        "p-memoize": "^6.0.2",
+        "react-leaflet": "^5.0.0",
+        "react-markdown": "^10.1.0"
+    }
+}
