@@ -52,6 +52,7 @@ Start the backend server:
 node api/index.js
 ```
 The API will run on http://localhost:3001
+
 3. Frontend Setup
 Install dependencies:
 ```
@@ -63,6 +64,7 @@ Start the development server:
 npm run dev
 ```
 The dashboard will be available at http://localhost:5173 
+
 4. Testing the system
     - Call the Voice Agent: +1 (650) 252 7577
     - Follow Verba's instructions and provide emergency data
