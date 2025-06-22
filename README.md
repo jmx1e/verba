@@ -3,6 +3,8 @@ Verba is a real-time voice agent that ensures nothing gets lost in translation d
 
 Verba then uses advanced custom agents to deliver structured reports that appear instantly on the Doctor Dashboard prioritized on criticality, reducing time-to-treatment and minimizing human error.
 
+![dash](./images/dash.jpg)
+
 ## Project Overview
 ### Voice Agent:
 - **Vapi**: Built and deployed an advanced AI voice agent. Handles natural conversations in real-time, makes and receives calls, and is built to seamlessly connect with major ePCR/EHR systems. Designed to respond only when necessary to save as much time as possible.
