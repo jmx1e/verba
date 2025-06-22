@@ -1,0 +1,303 @@
+If the term is nda, the category is allergy.
+If the term is nka, the category is allergy.
+If the term is nkda, the category is allergy.
+If the term is cva, the category is history of disease.
+If the term is co, the category is injury.
+If the term is cc, the category is chief complaints.
+If the term is mci, the category is chief complaints.
+If the term is chf, the category is history of disease.
+If the term is mi, the category is history of disease.
+If the term is pph, the category is history of disease.
+If the term is pvc, the category is history of disease.
+If the term is sids, the category is history of disease.
+If the term is st, the category is history of disease.
+If the term is stemi, the category is history of disease.
+If the term is svt, the category is history of disease.
+If the term is aph, the category is history of disease.
+If the term is mat, the category is history of disease.
+If the term is pe, the category is procedure.
+If the term is pea, the category is history of disease.
+If the term is psvt, the category is history of disease.
+If the term is vt, the category is history of disease.
+If the term is id dm, the category is history of disease.
+If the term is iddm, the category is history of disease.
+If the term is aaa, the category is history of disease.
+If the term is acs, the category is history of disease.
+If the term is ami, the category is history of disease.
+If the term is ards, the category is history of disease.
+If the term is ca, the category is history of disease.
+If the term is cad, the category is history of disease.
+If the term is cf, the category is history of disease.
+If the term is copd, the category is history of disease.
+If the term is crf, the category is history of disease.
+If the term is dcs, the category is history of disease.
+If the term is dka, the category is history of disease.
+If the term is dm, the category is history of disease.
+If the term is dvt, the category is history of disease.
+If the term is esrd, the category is history of disease.
+If the term is fh, the category is history of disease.
+If the term is gerd, the category is history of disease.
+If the term is hpi, the category is history of disease.
+If the term is htn, the category is history of disease.
+If the term is hx, the category is history of disease.
+If the term is ihd, the category is history of disease.
+If the term is loc, the category is history of disease.
+If the term is lsn, the category is history of disease.
+If the term is pat, the category is history of disease.
+If the term is sb, the category is history of disease.
+If the term is tb, the category is history of disease.
+If the term is tdp, the category is history of disease.
+If the term is tia, the category is history of disease.
+If the term is uri, the category is history of disease.
+If the term is uti, the category is history of disease.
+If the term is wct, the category is history of disease.
+If the term is ent, the category is injury.
+If the term is eent, the category is injury.
+If the term is abdo, the category is injury.
+If the term is cspine, the category is injury.
+If the term is cns, the category is injury.
+If the term is co2, the category is injury.
+If the term is csf, the category is injury.
+If the term is dcapbtls, the category is injury.
+If the term is flex, the category is injury.
+If the term is fx, the category is injury.
+If the term is gsw, the category is injury.
+If the term is hn, the category is injury.
+If the term is hg, the category is injury.
+If the term is hi, the category is injury.
+If the term is id, the category is injury.
+If the term is im, the category is injury.
+If the term is jvd, the category is injury.
+If the term is lac, the category is injury.
+If the term is lad, the category is injury.
+If the term is lbbb, the category is injury.
+If the term is lcx, the category is injury.
+If the term is lul, the category is injury.
+If the term is lll, the category is injury.
+If the term is luq, the category is injury.
+If the term is llq, the category is injury.
+If the term is moi, the category is injury.
+If the term is m of i, the category is injury.
+If the term is noi, the category is injury.
+If the term is od, the category is injury.
+If the term is rca, the category is injury.
+If the term is rll rml, the category is injury.
+If the term is apap, the category is medication.
+If the term is asa, the category is medication.
+If the term is bcp, the category is medication.
+If the term is bicarb, the category is medication.
+If the term is d, the category is medication.
+If the term is d5w, the category is medication.
+If the term is hco3, the category is medication.
+If the term is hctz, the category is medication.
+If the term is iv, the category is medication.
+If the term is ivp, the category is medication.
+If the term is ivpb, the category is medication.
+If the term is k, the category is medication.
+If the term is kcl, the category is medication.
+If the term is mgso4, the category is medication.
+If the term is ms, the category is patient status.
+If the term is nacl, the category is medication.
+If the term is nitro ntg, the category is medication.
+If the term is ns, the category is medication.
+If the term is nsaid, the category is medication.
+If the term is o2, the category is medication.
+If the term is otc, the category is medication.
+If the term is pcn, the category is medication.
+If the term is po, the category is medication.
+If the term is prn, the category is medication.
+If the term is rx, the category is medication.
+If the term is sc, the category is medication.
+If the term is sl, the category is medication.
+If the term is tca, the category is medication.
+If the term is tid, the category is medication.
+If the term is mva, the category is motor vehicle accident.
+If the term is mvc, the category is motor vehicle accident.
+If the term is pov, the category is motor vehicle accident.
+If the term is cp, the category is patient status.
+If the term is ha, the category is patient status.
+If the term is sah, the category is patient status.
+If the term is aox1, the category is patient status.
+If the term is aox2, the category is patient status.
+If the term is aox3, the category is patient status.
+If the term is aox4, the category is patient status.
+If the term is aox, the category is patient status.
+If the term is ams, the category is patient status.
+If the term is anox0, the category is patient status.
+If the term is anox1, the category is patient status.
+If the term is anox2, the category is patient status.
+If the term is anox3, the category is patient status.
+If the term is anox4, the category is patient status.
+If the term is avpu, the category is patient status.
+If the term is ayox1, the category is patient status.
+If the term is ayox2, the category is patient status.
+If the term is ayox3, the category is patient status.
+If the term is ayox4, the category is patient status.
+If the term is bac, the category is patient status.
+If the term is bal, the category is patient status.
+If the term is bbs, the category is patient status.
+If the term is bilat, the category is patient status.
+If the term is bipap, the category is patient status.
+If the term is bld, the category is patient status.
+If the term is bs, the category is patient status.
+If the term is caox1, the category is patient status.
+If the term is caox2, the category is patient status.
+If the term is caox3, the category is patient status.
+If the term is caox4, the category is patient status.
+If the term is caox, the category is patient status.
+If the term is cx, the category is patient status.
+If the term is dbc, the category is patient status.
+If the term is doa, the category is patient status.
+If the term is dos, the category is patient status.
+If the term is dt, the category is patient status.
+If the term is etoh, the category is patient status.
+If the term is from, the category is patient status.
+If the term is gcs, the category is patient status.
+If the term is hb, the category is patient status.
+If the term is hfnc, the category is patient status.
+If the term is hgb, the category is patient status.
+If the term is ld, the category is patient status.
+If the term is lkw, the category is patient status.
+If the term is lma, the category is patient status.
+If the term is loa, the category is patient status.
+If the term is mae, the category is patient status.
+If the term is n, the category is patient status.
+If the term is nv, the category is patient status.
+If the term is nvd, the category is patient status.
+If the term is nad, the category is patient status.
+If the term is npa, the category is patient status.
+If the term is nsr, the category is patient status.
+If the term is obs, the category is procedure.
+If the term is obgyn, the category is patient status.
+If the term is opa, the category is patient status.
+If the term is opqrst, the category is patient status.
+If the term is pac, the category is patient status.
+If the term is palp, the category is patient status.
+If the term is pearlperrla, the category is patient status.
+If the term is ptl, the category is patient status.
+If the term is rae, the category is patient status.
+If the term is rbcs, the category is patient status.
+If the term is rom, the category is patient status.
+If the term is rosc, the category is patient status.
+If the term is rsr, the category is patient status.
+If the term is rvh, the category is patient status.
+If the term is si or sr, the category is patient status.
+If the term is sr, the category is patient status.
+If the term is sx, the category is patient status.
+If the term is sync, the category is patient status.
+If the term is sz, the category is patient status.
+If the term is tcp, the category is patient status.
+If the term is utl, the category is patient status.
+If the term is bb, the category is procedure.
+If the term is g, the category is procedure.
+If the term is ddx, the category is procedure.
+If the term is afib, the category is procedure.
+If the term is acls, the category is procedure.
+If the term is aed, the category is procedure.
+If the term is af, the category is procedure.
+If the term is aka, the category is procedure.
+If the term is als, the category is procedure.
+If the term is bka, the category is procedure.
+If the term is bls, the category is procedure.
+If the term is bvm, the category is procedure.
+If the term is cat scan, the category is procedure.
+If the term is cabg, the category is procedure.
+If the term is cath, the category is procedure.
+If the term is cpap, the category is procedure.
+If the term is cpr, the category is procedure.
+If the term is ct, the category is procedure.
+If the term is ctas, the category is procedure.
+If the term is cxr, the category is procedure.
+If the term is defib, the category is procedure.
+If the term is dni, the category is procedure.
+If the term is dnr, the category is procedure.
+If the term is dx, the category is procedure.
+If the term is ecg, the category is procedure.
+If the term is ecg ekg, the category is procedure.
+If the term is ecpr, the category is procedure.
+If the term is egd, the category is procedure.
+If the term is ekg, the category is procedure.
+If the term is et, the category is procedure.
+If the term is ett, the category is procedure.
+If the term is gc, the category is procedure.
+If the term is i, the category is procedure.
+If the term is icd, the category is procedure.
+If the term is icp, the category is procedure.
+If the term is ii, the category is procedure.
+If the term is iii, the category is procedure.
+If the term is ippv, the category is procedure.
+If the term is ivr, the category is procedure.
+If the term is ked, the category is procedure.
+If the term is kvo, the category is procedure.
+If the term is lr, the category is procedure.
+If the term is map, the category is procedure.
+If the term is mri, the category is procedure.
+If the term is nc, the category is procedure.
+If the term is neb, the category is procedure.
+If the term is ngt, the category is procedure.
+If the term is nrb, the category is procedure.
+If the term is nrbm, the category is procedure.
+If the term is pals, the category is procedure.
+If the term is pci, the category is procedure.
+If the term is peep, the category is procedure.
+If the term is picc, the category is procedure.
+If the term is rsi, the category is procedure.
+If the term is saed, the category is procedure.
+If the term is scba, the category is procedure.
+If the term is scuba, the category is procedure.
+If the term is sgd, the category is procedure.
+If the term is start, the category is procedure.
+If the term is tkvo, the category is procedure.
+If the term is tko, the category is procedure.
+If the term is tr, the category is procedure.
+If the term is vfib, the category is procedure.
+If the term is v1, the category is procedure.
+If the term is v2, the category is procedure.
+If the term is v3, the category is procedure.
+If the term is v4, the category is procedure.
+If the term is v5, the category is procedure.
+If the term is v6, the category is procedure.
+If the term is vf, the category is procedure.
+If the term is abcs, the category is vitals.
+If the term is bg, the category is vitals.
+If the term is bgl, the category is vitals.
+If the term is bp, the category is vitals.
+If the term is dbp, the category is vitals.
+If the term is etco2, the category is vitals.
+If the term is hr, the category is vitals.
+If the term is o2sat, the category is vitals.
+If the term is p, the category is vitals.
+If the term is r, the category is vitals.
+If the term is resp, the category is vitals.
+If the term is rr, the category is vitals.
+If the term is sbp, the category is vitals.
+If the term is sob, the category is vitals.
+If the term is soboe, the category is vitals.
+If the term is spo2, the category is vitals.
+If the term is t, the category is vitals.
+If the term is temp, the category is vitals.
+If the term is tpr, the category is vitals.
+If the term is vs, the category is vitals.
+If the term is vsa, the category is vitals.
+If the term is cva, the category is patient status.
+If the term is chf, the category is chief complaints.
+If the term is mi, the category is chief complaints.
+If the term is pph, the category is chief complaints.
+If the term is pvc, the category is chief complaints.
+If the term is sids, the category is chief complaints.
+If the term is st, the category is chief complaints.
+If the term is stemi, the category is chief complaints.
+If the term is svt, the category is chief complaints.
+If the term is aph, the category is patient status.
+If the term is mat, the category is patient status.
+If the term is pe, the category is patient status.
+If the term is pea, the category is patient status.
+If the term is psvt, the category is patient status.
+If the term is vt, the category is patient status.
+If the term is mva, the category is injury.
+If the term is mvc, the category is injury.
+If the term is cp, the category is chief complaints.
+If the term is ha, the category is history of disease.
+If the term is sah, the category is history of disease.
+If the term is bb, the category is motor vehicle accident.
+If the term is abcs, the category is patient status.
