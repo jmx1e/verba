@@ -1,0 +1,151 @@
+Using pip 25.1.1 from /Users/amyz/Desktop/calhacks/first_responder_env/lib/python3.12/site-packages/pip (python 3.12)
+Collecting pyaudio==0.2.14
+  Downloading PyAudio-0.2.14.tar.gz (47 kB)
+  Installing build dependencies: started
+  Running command pip subprocess to install build dependencies
+  Using pip 25.1.1 from /Users/amyz/Desktop/calhacks/first_responder_env/lib/python3.12/site-packages/pip (python 3.12)
+  Collecting setuptools
+    Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/a3/dc/17031897dae0efacfea57dfd3a82fdd2a2aeb58e0ff71b77b87e44edc772/setuptools-80.9.0-py3-none-any.whl.metadata
+    Downloading setuptools-80.9.0-py3-none-any.whl.metadata (6.6 kB)
+  Collecting wheel
+    Obtaining dependency information for wheel from https://files.pythonhosted.org/packages/0b/2c/87f3254fd8ffd29e4c02732eee68a83a1d3c346ae39bc6822dcbcb697f2b/wheel-0.45.1-py3-none-any.whl.metadata
+    Downloading wheel-0.45.1-py3-none-any.whl.metadata (2.3 kB)
+  Downloading setuptools-80.9.0-py3-none-any.whl (1.2 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 6.5 MB/s eta 0:00:00
+  Downloading wheel-0.45.1-py3-none-any.whl (72 kB)
+  Installing collected packages: wheel, setuptools
+    Creating /private/var/folders/ch/50yy6c210jjch9277wk4vr880000gn/T/pip-build-env-eufrbrlw/overlay/bin
+    changing mode of /private/var/folders/ch/50yy6c210jjch9277wk4vr880000gn/T/pip-build-env-eufrbrlw/overlay/bin/wheel to 755
+
+  Successfully installed setuptools-80.9.0 wheel-0.45.1
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Running command Getting requirements to build wheel
+  /private/var/folders/ch/50yy6c210jjch9277wk4vr880000gn/T/pip-build-env-eufrbrlw/overlay/lib/python3.12/site-packages/setuptools/dist.py:759: SetuptoolsDeprecationWarning: License classifiers are deprecated.
+  !!
+
+          ********************************************************************************
+          Please consider removing the following classifiers in favor of a SPDX license expression:
+
+          License :: OSI Approved :: MIT License
+
+          See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+          ********************************************************************************
+
+  !!
+    self._finalize_license_expression()
+  running egg_info
+  writing src/PyAudio.egg-info/PKG-INFO
+  writing dependency_links to src/PyAudio.egg-info/dependency_links.txt
+  writing requirements to src/PyAudio.egg-info/requires.txt
+  writing top-level names to src/PyAudio.egg-info/top_level.txt
+  reading manifest file 'src/PyAudio.egg-info/SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  no previously-included directories found matching '**/__pycache__'
+  no previously-included directories found matching '**/.mypy_cache'
+  adding license file 'LICENSE.txt'
+  writing manifest file 'src/PyAudio.egg-info/SOURCES.txt'
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Running command Preparing metadata (pyproject.toml)
+  /private/var/folders/ch/50yy6c210jjch9277wk4vr880000gn/T/pip-build-env-eufrbrlw/overlay/lib/python3.12/site-packages/setuptools/dist.py:759: SetuptoolsDeprecationWarning: License classifiers are deprecated.
+  !!
+
+          ********************************************************************************
+          Please consider removing the following classifiers in favor of a SPDX license expression:
+
+          License :: OSI Approved :: MIT License
+
+          See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+          ********************************************************************************
+
+  !!
+    self._finalize_license_expression()
+  running dist_info
+  creating /private/var/folders/ch/50yy6c210jjch9277wk4vr880000gn/T/pip-modern-metadata-jxu0thwo/PyAudio.egg-info
+  writing /private/var/folders/ch/50yy6c210jjch9277wk4vr880000gn/T/pip-modern-metadata-jxu0thwo/PyAudio.egg-info/PKG-INFO
+  writing dependency_links to /private/var/folders/ch/50yy6c210jjch9277wk4vr880000gn/T/pip-modern-metadata-jxu0thwo/PyAudio.egg-info/dependency_links.txt
+  writing requirements to /private/var/folders/ch/50yy6c210jjch9277wk4vr880000gn/T/pip-modern-metadata-jxu0thwo/PyAudio.egg-info/requires.txt
+  writing top-level names to /private/var/folders/ch/50yy6c210jjch9277wk4vr880000gn/T/pip-modern-metadata-jxu0thwo/PyAudio.egg-info/top_level.txt
+  writing manifest file '/private/var/folders/ch/50yy6c210jjch9277wk4vr880000gn/T/pip-modern-metadata-jxu0thwo/PyAudio.egg-info/SOURCES.txt'
+  reading manifest file '/private/var/folders/ch/50yy6c210jjch9277wk4vr880000gn/T/pip-modern-metadata-jxu0thwo/PyAudio.egg-info/SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  no previously-included directories found matching '**/__pycache__'
+  no previously-included directories found matching '**/.mypy_cache'
+  adding license file 'LICENSE.txt'
+  writing manifest file '/private/var/folders/ch/50yy6c210jjch9277wk4vr880000gn/T/pip-modern-metadata-jxu0thwo/PyAudio.egg-info/SOURCES.txt'
+  creating '/private/var/folders/ch/50yy6c210jjch9277wk4vr880000gn/T/pip-modern-metadata-jxu0thwo/pyaudio-0.2.14.dist-info'
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: pyaudio
+  Building wheel for pyaudio (pyproject.toml): started
+  Running command Building wheel for pyaudio (pyproject.toml)
+  /private/var/folders/ch/50yy6c210jjch9277wk4vr880000gn/T/pip-build-env-eufrbrlw/overlay/lib/python3.12/site-packages/setuptools/dist.py:759: SetuptoolsDeprecationWarning: License classifiers are deprecated.
+  !!
+
+          ********************************************************************************
+          Please consider removing the following classifiers in favor of a SPDX license expression:
+
+          License :: OSI Approved :: MIT License
+
+          See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+          ********************************************************************************
+
+  !!
+    self._finalize_license_expression()
+  running bdist_wheel
+  running build
+  running build_py
+  creating build/lib.macosx-10.15-x86_64-cpython-312/pyaudio
+  copying src/pyaudio/__init__.py -> build/lib.macosx-10.15-x86_64-cpython-312/pyaudio
+  running build_ext
+  building 'pyaudio._portaudio' extension
+  creating build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio
+  clang -I/opt/homebrew/include -DMACOS=1 -I/usr/local/include -I/usr/include -I/opt/homebrew/include -I/Users/amyz/Desktop/calhacks/first_responder_env/include -I/usr/local/Caskroom/miniconda/base/include/python3.12 -c src/pyaudio/device_api.c -o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/device_api.o
+  clang -I/opt/homebrew/include -DMACOS=1 -I/usr/local/include -I/usr/include -I/opt/homebrew/include -I/Users/amyz/Desktop/calhacks/first_responder_env/include -I/usr/local/Caskroom/miniconda/base/include/python3.12 -c src/pyaudio/host_api.c -o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/host_api.o
+  clang -I/opt/homebrew/include -DMACOS=1 -I/usr/local/include -I/usr/include -I/opt/homebrew/include -I/Users/amyz/Desktop/calhacks/first_responder_env/include -I/usr/local/Caskroom/miniconda/base/include/python3.12 -c src/pyaudio/init.c -o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/init.o
+  clang -I/opt/homebrew/include -DMACOS=1 -I/usr/local/include -I/usr/include -I/opt/homebrew/include -I/Users/amyz/Desktop/calhacks/first_responder_env/include -I/usr/local/Caskroom/miniconda/base/include/python3.12 -c src/pyaudio/mac_core_stream_info.c -o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/mac_core_stream_info.o
+  clang -I/opt/homebrew/include -DMACOS=1 -I/usr/local/include -I/usr/include -I/opt/homebrew/include -I/Users/amyz/Desktop/calhacks/first_responder_env/include -I/usr/local/Caskroom/miniconda/base/include/python3.12 -c src/pyaudio/main.c -o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/main.o
+  clang -I/opt/homebrew/include -DMACOS=1 -I/usr/local/include -I/usr/include -I/opt/homebrew/include -I/Users/amyz/Desktop/calhacks/first_responder_env/include -I/usr/local/Caskroom/miniconda/base/include/python3.12 -c src/pyaudio/misc.c -o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/misc.o
+  clang -I/opt/homebrew/include -DMACOS=1 -I/usr/local/include -I/usr/include -I/opt/homebrew/include -I/Users/amyz/Desktop/calhacks/first_responder_env/include -I/usr/local/Caskroom/miniconda/base/include/python3.12 -c src/pyaudio/stream.c -o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/stream.o
+  clang -I/opt/homebrew/include -DMACOS=1 -I/usr/local/include -I/usr/include -I/opt/homebrew/include -I/Users/amyz/Desktop/calhacks/first_responder_env/include -I/usr/local/Caskroom/miniconda/base/include/python3.12 -c src/pyaudio/stream_io.c -o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/stream_io.o
+  clang -I/opt/homebrew/include -DMACOS=1 -I/usr/local/include -I/usr/include -I/opt/homebrew/include -I/Users/amyz/Desktop/calhacks/first_responder_env/include -I/usr/local/Caskroom/miniconda/base/include/python3.12 -c src/pyaudio/stream_lifecycle.c -o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/stream_lifecycle.o
+  clang -bundle -undefined dynamic_lookup -Wl,-rpath,/usr/local/Caskroom/miniconda/base/lib -L/usr/local/Caskroom/miniconda/base/lib -Wl,-rpath,/usr/local/Caskroom/miniconda/base/lib -L/usr/local/Caskroom/miniconda/base/lib -L/opt/homebrew/lib -I/opt/homebrew/include build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/device_api.o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/host_api.o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/init.o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/mac_core_stream_info.o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/main.o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/misc.o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/stream.o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/stream_io.o build/temp.macosx-10.15-x86_64-cpython-312/src/pyaudio/stream_lifecycle.o -L/usr/local/lib -L/usr/lib -L/opt/homebrew/lib -lportaudio -o build/lib.macosx-10.15-x86_64-cpython-312/pyaudio/_portaudio.cpython-312-darwin.so
+  ld: warning: duplicate -rpath '/usr/local/Caskroom/miniconda/base/lib' ignored
+  ld: warning: ignoring file '/opt/homebrew/Cellar/portaudio/19.7.0/lib/libportaudio.2.dylib': found architecture 'arm64', required architecture 'x86_64'
+  installing to build/bdist.macosx-10.15-x86_64/wheel
+  running install
+  running install_lib
+  creating build/bdist.macosx-10.15-x86_64/wheel
+  creating build/bdist.macosx-10.15-x86_64/wheel/pyaudio
+  copying build/lib.macosx-10.15-x86_64-cpython-312/pyaudio/_portaudio.cpython-312-darwin.so -> build/bdist.macosx-10.15-x86_64/wheel/./pyaudio
+  copying build/lib.macosx-10.15-x86_64-cpython-312/pyaudio/__init__.py -> build/bdist.macosx-10.15-x86_64/wheel/./pyaudio
+  running install_egg_info
+  running egg_info
+  writing src/PyAudio.egg-info/PKG-INFO
+  writing dependency_links to src/PyAudio.egg-info/dependency_links.txt
+  writing requirements to src/PyAudio.egg-info/requires.txt
+  writing top-level names to src/PyAudio.egg-info/top_level.txt
+  reading manifest file 'src/PyAudio.egg-info/SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  no previously-included directories found matching '**/__pycache__'
+  no previously-included directories found matching '**/.mypy_cache'
+  adding license file 'LICENSE.txt'
+  writing manifest file 'src/PyAudio.egg-info/SOURCES.txt'
+  Copying src/PyAudio.egg-info to build/bdist.macosx-10.15-x86_64/wheel/./PyAudio-0.2.14-py3.12.egg-info
+  running install_scripts
+  creating build/bdist.macosx-10.15-x86_64/wheel/pyaudio-0.2.14.dist-info/WHEEL
+  creating '/private/var/folders/ch/50yy6c210jjch9277wk4vr880000gn/T/pip-wheel-yq7vg099/.tmp-0l4s59wb/pyaudio-0.2.14-cp312-cp312-macosx_10_15_x86_64.whl' and adding 'build/bdist.macosx-10.15-x86_64/wheel' to it
+  adding 'pyaudio/__init__.py'
+  adding 'pyaudio/_portaudio.cpython-312-darwin.so'
+  adding 'pyaudio-0.2.14.dist-info/licenses/LICENSE.txt'
+  adding 'pyaudio-0.2.14.dist-info/METADATA'
+  adding 'pyaudio-0.2.14.dist-info/WHEEL'
+  adding 'pyaudio-0.2.14.dist-info/top_level.txt'
+  adding 'pyaudio-0.2.14.dist-info/RECORD'
+  removing build/bdist.macosx-10.15-x86_64/wheel
+  Building wheel for pyaudio (pyproject.toml): finished with status 'done'
+  Created wheel for pyaudio: filename=pyaudio-0.2.14-cp312-cp312-macosx_10_15_x86_64.whl size=25456 sha256=e43d32b3b0b1edae6c1cc234d8df20af7ce50e95236bf6acf73f2bcc7bb44067
+  Stored in directory: /Users/amyz/Library/Caches/pip/wheels/68/c7/33/c6a6b210cb5819ec5c219928c794a447742a7d86d21c0b92e6
+Successfully built pyaudio
+Installing collected packages: pyaudio
+Successfully installed pyaudio-0.2.14
